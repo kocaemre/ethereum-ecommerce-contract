@@ -42,7 +42,5 @@ The smart contract provides the following functionality:
 
 **Please note that this smart contract is for educational and testing purposes only. It may contain security vulnerabilities or bugs. Use it with caution and never deploy it to the Ethereum mainnet without thorough security audits.**
 
-## License
 
-This smart contract is licensed under the GNU General Public License v3.0. You can find a copy of the license in the [LICENSE](LICENSE) file.
 
